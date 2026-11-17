@@ -1,8 +1,13 @@
 # Credit-Card-Fraud-Risk-Analysis
+
+## Project Overview
 This project focuses on analysing credit card transactions to identify fraudulent activities, assess financial exposure and evaluate potential weaknesses in fraud detection. An interactive power BI dashboard was developed to examine transaction patterns, fraud rates, transaction values, merchant categories, customer demographics and transaction timing. The objective is to provide actionable insights that can help financial institutions strengthen fraud prevention controls, identify high-risk transaction patterns and improve financial risk management. 
----
+
+<img width="793" height="457" alt="WhatsApp Image 2026-11-08 at 00 10 34" src="https://github.com/user-attachments/assets/d23789e5-87f8-47de-984a-7d226586179d" />
+
 
 ## Table of Contents
+- [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
