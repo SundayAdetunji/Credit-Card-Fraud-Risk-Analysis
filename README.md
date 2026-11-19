@@ -158,6 +158,10 @@ The following limitations were observed in the course of the project:
 * Further model validation would be required before using the identified patterns for automated fraud classification.
 ---
 ### References
-- Credit card fraud Dataset from [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
-- Various learning resourses on Youtube
----
+
+- Credit Risk Analysis Dataset.
+- Microsoft Learn – Power BI documentation.
+- Microsoft Learn – Power Query documentation.
+- Microsoft Learn – DAX (Data Analysis Expressions) reference.
+- Microsoft Learn – Power BI data modelling and visualisation documentation.
+
